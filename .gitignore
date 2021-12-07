@@ -73,3 +73,9 @@ Vendor/SRT/srt/
 *.framework
 *.a
 .DS_Store
+
+### Xcode ###
+build
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcworkspace/contents.xcworkspacedata
