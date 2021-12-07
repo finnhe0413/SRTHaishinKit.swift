@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SRT"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.3"
   spec.swift_version = "5.0"
   spec.summary      = "Swag SRT Library."
   spec.homepage     = "https://github.com/swaglive/SRTHaishinKit.swift"
